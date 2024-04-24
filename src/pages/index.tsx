@@ -4,7 +4,7 @@ export default function Home() {
     const [file, setFile] = useState<File>()
     const [isLoading, setIsLoading] = useState(false);
     const [summary, setSummary] = useState("");
-    const serviceUrl = "https://kujpqecpl6.execute-api.us-east-1.amazonaws.com/claude-file"
+    const serviceUrl = ""
   const onSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault()
     if (!file) return
