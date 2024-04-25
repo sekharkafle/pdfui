@@ -41,6 +41,8 @@ The UI code to allow uploading the file and POSTing it to the service is shown b
 
 The code for the service layer is available here. [https://github.com/sekharkafle/pdflambda](https://github.com/sekharkafle/pdflambda)
 
+Please check this link for end-to-end solution. [http://kafles.com/2024/04/20/practical-llm2/](http://kafles.com/2024/04/20/practical-llm2/)
+
 Screenshot of the fully functional app:
 ![PDF UI](pdf-summary.png)
 
